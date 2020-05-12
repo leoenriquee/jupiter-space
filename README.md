@@ -11,6 +11,7 @@ Make sure to have npm and expo-cli installed globally, to check it run `npm -v` 
 - download android studio
   - add a new [virtual device](https://developer.android.com/studio/run/managing-avds)
 - or download xcode emulator (Mac)
+- `npm install`
 
 To run the project:
 
